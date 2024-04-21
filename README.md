@@ -8,3 +8,6 @@ program, what does it mean?
 
 ![Publisher Result](publisher.png)
 > The publisher program has successfully sent 5 data to the message broker.
+
+![Overview](overview.png)
+> The spikes on the graph indicates the message rates that measusres how much message are sent on the channel within a time interval. Because the publisher sends some messages to the message broker, the message rates are increased, thus causing a spike on the graph.
